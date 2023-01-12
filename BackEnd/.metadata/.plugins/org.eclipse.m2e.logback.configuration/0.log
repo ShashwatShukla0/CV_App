@@ -3170,3 +3170,203 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 2023-01-11 17:42:19,656 [Worker-433: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
 2023-01-11 17:43:11,019 [Worker-437: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-11 17:43:11,024 [Worker-437: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-11 17:43:11,026 [Worker-437: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:10:45,260 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-12 11:11:11,503 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:11:11,527 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:11:11,530 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\src\test\resources
+2023-01-12 11:11:19,022 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:11:19,186 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:11:19,189 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:11:19,191 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:11:20,756 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:11:20,930 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:11:20,932 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:11:20,934 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVExperience\src\test\resources
+2023-01-12 11:11:23,059 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:11:23,373 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:11:23,376 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:11:23,378 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVSkills\src\test\resources
+2023-01-12 11:11:32,292 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:11:32,294 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:11:32,296 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\discovery-server\src\test\resources
+2023-01-12 11:54:22,840 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVEducation:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\pom.xml.
+2023-01-12 11:54:23,297 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:54:24,636 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:54:24,637 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:54:24,638 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:56:31,365 [Worker-38: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:56:32,226 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVEducation:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\pom.xml.
+2023-01-12 11:56:32,665 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:56:33,302 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:33,303 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:33,305 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:56:36,120 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:56:36,238 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:56:36,240 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:36,242 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:56:53,479 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVEducation:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\pom.xml.
+2023-01-12 11:56:53,986 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:56:55,074 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:55,074 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:55,076 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 11:56:58,051 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 11:56:58,184 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 11:56:58,186 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 11:56:58,188 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 13:24:22,019 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:24:22,113 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:24:22,117 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 13:24:35,912 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVSkills:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVSkills\pom.xml.
+2023-01-12 13:24:36,447 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:24:37,192 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:24:37,192 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:24:37,194 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVSkills\src\test\resources
+2023-01-12 13:25:04,457 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:25:04,593 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:25:04,654 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:25:04,656 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVSkills\src\test\resources
+2023-01-12 13:25:14,961 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVExperience:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVExperience\pom.xml.
+2023-01-12 13:25:15,605 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:25:16,386 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:25:16,386 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:25:16,388 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVExperience\src\test\resources
+2023-01-12 13:25:43,142 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:25:43,289 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:25:43,318 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:25:43,320 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVExperience\src\test\resources
+2023-01-12 13:26:55,492 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:26:55,498 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:26:55,500 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\src\test\resources
+2023-01-12 13:31:56,149 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:31:56,178 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:31:56,183 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 13:32:49,659 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:32:50,683 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:32:50,684 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:32:50,687 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\src\test\resources
+2023-01-12 13:33:48,253 [Worker-49: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/CV/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:243)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-01-12 13:33:48,612 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:33:48,880 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:34:29,225 [Worker-45: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/CV/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:243)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-01-12 13:34:29,724 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:34:30,025 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:37:09,458 [Worker-51: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CV] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV
+2023-01-12 13:37:09,461 [Worker-51: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2023-01-12 13:37:51,780 [Worker-50: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CV] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV
+2023-01-12 13:37:51,781 [Worker-50: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CV] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2023-01-12 13:38:22,126 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVEducation:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\pom.xml.
+2023-01-12 13:38:22,643 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:38:23,392 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:38:23,392 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:38:23,394 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVEducation\src\test\resources
+2023-01-12 13:38:40,377 [Worker-51: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/CV/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:243)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-01-12 13:38:40,858 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:38:41,128 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:40:23,013 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:40:24,042 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:40:24,042 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:40:24,043 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\src\test\resources
+2023-01-12 13:40:25,262 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 13:40:25,266 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 13:40:25,268 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\src\test\resources
+2023-01-12 13:40:39,771 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:40:40,019 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:41:55,599 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-12 13:41:55,981 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CV:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CV\pom.xml.
+2023-01-12 13:41:56,238 [Worker-49: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 13:41:56,862 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CV/src/main/resources
+2023-01-12 13:41:56,863 [Worker-49: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CV/src/main/resources
+2023-01-12 13:41:57,673 [Worker-49: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-01-12 14:12:51,648 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVMain:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\pom.xml.
+2023-01-12 14:12:52,675 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CVMain/src/main/java
+2023-01-12 14:12:52,675 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CVMain/src/main/resources
+2023-01-12 14:12:52,681 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CVMain/src/main/resources
+2023-01-12 14:12:52,688 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CVMain/src/test/java
+2023-01-12 14:12:53,433 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-01-12 14:12:53,434 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-12 14:12:53,961 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVMain:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\pom.xml.
+2023-01-12 14:12:55,445 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CVMain/src/main/java
+2023-01-12 14:12:55,445 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CVMain/src/main/resources
+2023-01-12 14:12:55,449 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CVMain/src/main/resources
+2023-01-12 14:12:55,453 [Worker-56: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CVMain/src/test/java
+2023-01-12 14:12:55,857 [Worker-56: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2023-01-12 14:12:56,856 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 14:12:56,857 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:12:56,859 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 14:13:06,736 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 14:13:06,742 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:13:06,744 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 14:13:22,704 [Worker-53: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 14:14:28,532 [Worker-51: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVMain:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\pom.xml.
+2023-01-12 14:14:28,791 [Worker-51: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 14:23:37,946 [Worker-54: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 14:23:38,463 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cv.:CVMain:0.0.1-SNAPSHOT @ C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\pom.xml.
+2023-01-12 14:23:38,949 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 14:23:39,778 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:23:39,778 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:23:39,779 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 14:23:42,389 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-01-12 14:23:42,526 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 14:23:42,528 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:23:42,530 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 14:23:47,888 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 14:23:47,902 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 14:23:47,905 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 15:12:55,467 [Worker-59: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CVMain] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain
+2023-01-12 15:12:55,468 [Worker-59: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CVMain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2023-01-12 15:12:59,816 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 15:12:59,816 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 15:12:59,818 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 15:17:54,508 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-12 15:17:54,513 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-12 15:17:54,515 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain\src\test\resources
+2023-01-12 15:18:06,633 [Worker-62: Launching Executing install in C__Users_SHASHWAT_Desktop_Web Development_CV_Project_BackEnd_CVMain] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd\CVMain
