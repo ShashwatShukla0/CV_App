@@ -96,7 +96,6 @@ INDEX VERSION 1.131+C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd
 1905407060.index
 698089108.index
 2374660657.index
-2044240722.index
 1696620507.index
 835668988.index
 3122446892.index

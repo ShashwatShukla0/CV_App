@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
 
 import com.cv.app.model.Front;
 import com.cv.app.service.FrontService;
@@ -39,6 +40,29 @@ public class FrontController {
 		return new ResponseEntity<Front>(front,HttpStatus.OK);
 	}
 	
+	@GetMapping("/front/edu")
+	public String getEdu() {
+		String uri= "http://localhost:8080/details";
+		RestTemplate restTemp = new RestTemplate();
+		String res = restTemp.getForObject(uri, String.class);
+		return res;
+	}
+	
+	@GetMapping("/front/exe")
+	public String getExe() {
+		String uri= "http://localhost:8081/exp";
+		RestTemplate restTemp = new RestTemplate();
+		String res = restTemp.getForObject(uri, String.class);
+		return res;
+	}
+	
+	@GetMapping("/front/skill")
+	public String getSkill() {
+		String uri= "http://localhost:8082/skills";
+		RestTemplate restTemp = new RestTemplate();
+		String res = restTemp.getForObject(uri, String.class);
+		return res;
+	}
 	
 
 }
