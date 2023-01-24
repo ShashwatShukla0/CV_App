@@ -1,5 +1,0 @@
-package com.cv.app.exception;
-
-public class CustomExceptionHandler {
-
-}
