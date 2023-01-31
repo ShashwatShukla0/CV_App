@@ -10,13 +10,19 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button'
 import { MatToolbarModule } from '@angular/material/toolbar'
 import { MatIconModule } from '@angular/material/icon'
+import { MatGridListModule } from '@angular/material/grid-list';
+import { CoverComponent } from './Component/cover/cover.component';
+import { CardComponent } from './Component/card/card.component'
+import { MatCardModule } from '@angular/material/card'
 
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
-    FooterComponent
+    FooterComponent,
+    CoverComponent,
+    CardComponent
   ],
 
   imports: [
@@ -26,7 +32,9 @@ import { MatIconModule } from '@angular/material/icon'
     BrowserAnimationsModule,
     MatButtonModule,
     MatToolbarModule,
-    MatIconModule
+    MatIconModule,
+    MatGridListModule,
+    MatCardModule
   ],
   providers: [],
   bootstrap: [AppComponent]
