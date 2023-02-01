@@ -1,0 +1,16 @@
+.bg {
+  background-image:    url(src\Images\image_cover.jpg);
+  background-size:1700px;                     
+  background-position: 30px;            
+}
+
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+}
+h1 {
+  font-size: 70px;
+  font-family: "Lucida Handwriting", "Courier New", monospace;
+}
