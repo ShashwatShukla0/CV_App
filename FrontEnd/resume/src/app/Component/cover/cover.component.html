@@ -1,16 +1,18 @@
-<mat-grid-list cols="4" rowHeight="900px" gutterSize="5px" class="bg">
-<mat-grid-tile colspan="3">
+<mat-grid-list cols="1" rowHeight="900px" gutterSize="5px" class="bg">
+  <app-navbar></app-navbar>
+<mat-grid-tile>
   <div class="centered">
-    <h1>Hello</h1>
+    <h2>Hello,</h2>
+    <h1>I'm Shashwat Shukla</h1>
+    <p>Java Full Stack Developer with Angular</p>
+    <br>
+    <br>
+    <p>details</p>
+    <div class="bt">
+      <button mat-raised-button color="primary" (click)="scrollDown()">Click! To Know More     </button>
+    </div>
+    
   </div>
-  <mat-grid-tile-header>
-    <h2>About me</h2>
-  </mat-grid-tile-header>
-</mat-grid-tile>
-<mat-grid-tile colspan="1">
-  <mat-grid-tile-header>
-    Details
-  </mat-grid-tile-header>
 </mat-grid-tile>
   
 </mat-grid-list>

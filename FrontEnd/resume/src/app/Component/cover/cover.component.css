@@ -6,11 +6,28 @@
 
 .centered {
   position: absolute;
-  top: 30%;
-  left: 80%;
-  transform: translate(-50%, -50%);
+  top: 20%;
+  left: 60%;
+}
+h2{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+}
+p{
+  font-size: 20px;
+  font-weight:400;
+  font-family: 'Times New Roman', Times, serif;
 }
 h1 {
-  font-size: 70px;
-  font-family: "Lucida Handwriting", "Courier New", monospace;
+  font-size: 40px;
+  font-weight:600;
+  font-family: 'Times New Roman', Times, serif;
+}
+.bt {
+  position: absolute;
+  top: 190%;
+}
+button.mat-button {
+  border-radius: 0;
 }

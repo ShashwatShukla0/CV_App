@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class CoverComponent {
 
+
+  scrollDown() {
+    window.scrollTo(0, document.body.scrollHeight);
+  }
+
 }
