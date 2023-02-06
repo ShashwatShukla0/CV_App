@@ -13,7 +13,8 @@ import { MatIconModule } from '@angular/material/icon'
 import { MatGridListModule } from '@angular/material/grid-list';
 import { CoverComponent } from './Component/cover/cover.component';
 import { CardComponent } from './Component/card/card.component'
-import { MatCardModule } from '@angular/material/card'
+import { MatCardModule } from '@angular/material/card';
+import { EducationComponent } from './Component/education/education.component'
 
 
 @NgModule({
@@ -22,7 +23,8 @@ import { MatCardModule } from '@angular/material/card'
     NavbarComponent,
     FooterComponent,
     CoverComponent,
-    CardComponent
+    CardComponent,
+    EducationComponent
   ],
 
   imports: [
