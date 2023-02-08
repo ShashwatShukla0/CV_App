@@ -14,7 +14,8 @@ import { MatGridListModule } from '@angular/material/grid-list';
 import { CoverComponent } from './Component/cover/cover.component';
 import { CardComponent } from './Component/card/card.component'
 import { MatCardModule } from '@angular/material/card';
-import { EducationComponent } from './Component/education/education.component'
+import { EducationComponent } from './Component/education/education.component';
+import { MainComponent } from './Component/main/main.component'
 
 
 @NgModule({
@@ -24,7 +25,8 @@ import { EducationComponent } from './Component/education/education.component'
     FooterComponent,
     CoverComponent,
     CardComponent,
-    EducationComponent
+    EducationComponent,
+    MainComponent
   ],
 
   imports: [
