@@ -15,7 +15,10 @@ import { CoverComponent } from './Component/cover/cover.component';
 import { CardComponent } from './Component/card/card.component'
 import { MatCardModule } from '@angular/material/card';
 import { EducationComponent } from './Component/education/education.component';
-import { MainComponent } from './Component/main/main.component'
+import { MainComponent } from './Component/main/main.component';
+import { ExpierenceComponent } from './Component/expierence/expierence.component';
+import { SkillComponent } from './Component/skill/skill.component';
+import { HobbiesComponent } from './Component/hobbies/hobbies.component'
 
 
 @NgModule({
@@ -26,7 +29,10 @@ import { MainComponent } from './Component/main/main.component'
     CoverComponent,
     CardComponent,
     EducationComponent,
-    MainComponent
+    MainComponent,
+    ExpierenceComponent,
+    SkillComponent,
+    HobbiesComponent
   ],
 
   imports: [
