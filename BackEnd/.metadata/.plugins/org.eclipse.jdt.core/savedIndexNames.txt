@@ -74,7 +74,6 @@ INDEX VERSION 1.131+C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd
 2269660910.index
 1947299924.index
 1559925576.index
-1216118036.index
 2700673170.index
 787455276.index
 1905089514.index
@@ -83,7 +82,6 @@ INDEX VERSION 1.131+C:\Users\SHASHWAT\Desktop\Web Development\CV_Project\BackEnd
 3365063949.index
 2302828716.index
 4080833800.index
-2541500923.index
 3796008770.index
 2566904591.index
 3106912510.index

@@ -18,6 +18,9 @@ public class Education {
 	@NotBlank(message="Title cannot be empty")
 	private String title;
 	
+	@NotBlank(message="Year cannot be null")
+	private int year;
+	
 	@NotBlank(message="Description cannot be empty")
 	private String description;
 	
@@ -34,18 +37,24 @@ public class Education {
 		this.title = title;
 	}
 	
+	public int getYear() {
+		return year;
+	}
+	public void setYear(int year) {
+		this.year = year;
+	}
 	public String getDescription() {
 		return description;
 	}
 	public void setDescription(String description) {
 		this.description = description;
 	}
-
-
 	@Override
 	public String toString() {
-		return "Education [id=" + id + ", title=" + title + ", desc=" + description + "]";
+		return "Education [id=" + id + ", title=" + title + ", year=" + year + ", description=" + description + "]";
 	}
+
+
 	
 
 }
